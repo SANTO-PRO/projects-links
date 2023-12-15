@@ -1,4 +1,4 @@
-# Porjects Links:
+# Projects Links:
 1. - [AYNA](https://aynabyambrin.com)
 2. - [AYNA CMS](https://admin.aynabyambrin.com)
     For Access: (give me your Gmail, I'll give you the access)
